@@ -20,7 +20,7 @@ setEffect(1, VOLUME, GAIN, -60, 1, 5, 12)
 setEffect(1,VOLUME,GAIN, 5, 12, -60, 16)
 fitMedia(secondaryBeats, 2, 1, 12)
 #  Add effect
-SetEffect(2, DELAY, DELAY_TIME, 500)
+setEffect(2, DELAY, DELAY_TIME, 500)
 fitMedia(mainBeat, 3, 1, 8)
 # Add effect
 setEffect(3, REVERB, REVERB_TIME, 200)
